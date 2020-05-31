@@ -1,0 +1,69 @@
+body{
+	background-color: #FACCAD;
+	font-family: 'montserrat';
+}
+
+h3{
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow: 4px 4px 5px #888;
+	margin-top: 10px;
+	margin-left: 37%;
+	color: #6B3231;
+}
+
+.card-img-top {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img {
+	margin: 10px;
+	transition: all 1s;
+
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+
+.bar{
+	text-decoration: none;
+
+}
+
+.fa {
+    font-size: 30px;  
+   	text-align: center;
+  	text-decoration: none;
+  
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+a{
+	color: black;
+
+}
+
+
+.card-group{
+	background-color: #FACCAD;
+	color: #6B3231;
+}
+
+.btn-order{
+	background-color: #0A7EA2;
+}
+
+.bar1{
+	background-color: red;
+}

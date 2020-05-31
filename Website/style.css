@@ -1,0 +1,34 @@
+body{
+	font-family: 'montserrat';
+	border-radius: 15px;
+	height: 550px;
+	width: 375px;
+	background-image: url(https://images.unsplash.com/photo-1535110607694-ef23b879894a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+	background-repeat: no-repeat;
+	background-position: center; bottom;
+	background-size: 500px;
+	box-shadow:8px 8px 5px 0px rgba(0,0,0,0.75) 
+	padding-top: 100px; 
+	margin-right: 40%; 
+	align-items: center; 
+	margin-top: 200px; 
+	margin-left: 45%;
+}
+
+
+button{
+	background-color: lightblue;
+	margin-top: 10px;
+	margin-left: 100px;
+}
+
+
+
+.btn{
+	margin-left: 110px;
+	margin-top: 15px;
+}
+
+h3{
+	color:#DB565D;
+}
