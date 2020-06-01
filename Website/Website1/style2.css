@@ -1,0 +1,63 @@
+body{
+	background-color:#FACCAD ;
+	font-family: 'montserrat';
+	color: #6B3231;
+}
+
+
+
+
+h1{
+	text-align: center;
+}
+
+
+
+
+
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p{
+	 margin-left: 40px;
+}
+
+.fa {
+    font-size: 30px;  
+   	text-align: center;
+  	text-decoration: none;
+  
+}
+
+a:hover{
+	text-decoration: none;
+
+}
+
+a{
+	color: black;
+}
+/*
+ ტექსტიანი ფოტო
+ {
+	opacity:0;
+
+ }*/
+
+input{
+	width: 60%;
+	padding: 12px 20px;
+	margin-bottom: 8px 9;
+	border:none;
+}
+
+.btn-order{
+	margin-top: 100%;
+	margin-left: 100%;
+	
+}
+
