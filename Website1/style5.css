@@ -1,0 +1,42 @@
+body{
+	background-color:#FACCAD ;
+	font-family: 'montserrat';
+}
+
+.fa {
+    font-size: 30px;  
+   	text-align: center;
+  	text-decoration: none;
+  
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+h4 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+h4:before, h4:after{
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid #000;
+  margin: auto;
+}
+h4:before {
+  margin-right: 10px
+}
+h4:after {
+  margin-left: 10px
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.container{
+	margin-left: 100px;
+}
